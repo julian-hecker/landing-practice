@@ -1,0 +1,10 @@
+.footer-section {
+  padding: 4rem 2rem;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+.footer-section h2 {
+  margin: 0;
+}

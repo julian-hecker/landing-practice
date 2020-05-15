@@ -1,0 +1,25 @@
+.who-section {
+  background-color: #91b4f4;
+  padding: 12rem 4rem;
+}
+
+.who-section .content {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin: auto;
+  max-width: 600px;
+}
+
+.who-section h2 {
+  color: #1a29b6;
+  font-weight: lighter;
+}
+
+@media (max-width: 600px) {
+  .who-section {
+    padding: 4rem 4rem;
+  }
+  .who-section .content {
+    grid-template-columns: 1fr;
+  }
+}
