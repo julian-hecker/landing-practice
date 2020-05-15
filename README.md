@@ -1,2 +1,2 @@
 # landing-practice
-Created with CodeSandbox
+https://www.figma.com/file/XZE3jQCTnb2rAfi08kDfP5/Landing-Page
